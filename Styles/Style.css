@@ -1,0 +1,28 @@
+body {font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background:rgb(157, 209, 226);
+     } 
+     li{
+         font-size: 14px;
+         font-style: italic;
+         font-weight: normal;
+     }
+     a{
+         color: blue;
+     }
+     .Resumelistheading{
+         font-weight: bold;
+         font-style: normal;
+     }
+     .Underline{ text-decoration: underline; }
+     .bold{font-weight: bold;}
+     .justify{text-align: justify;}
+
+     .homebg{
+         background-image: url();
+     }
+     .body{text-decoration:underline}
+     
+
+     
